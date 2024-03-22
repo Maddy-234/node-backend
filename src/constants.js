@@ -1,1 +1,1 @@
-export const DB_NAME = "mern-db";
+export const DB_NAME = "ytclone";
