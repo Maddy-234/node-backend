@@ -1,1 +1,1 @@
-# backend for Hotel Management System
+# backend for Youtube clone
